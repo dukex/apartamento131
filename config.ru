@@ -1,10 +1,13 @@
 require 'rack'
 
-use Rack::Static, :urls => [""], :root => 'public', :index =>'index.html',
-  :header_rules => [
-    [:all, {'Cache-Control' => 'public, max-age=864000'}],
-    [%r{^(?!.*\.).*\w}, {'Content-Type' => 'text/html'}]
-  ]
+use Rack::Static, :urls => Dir.glob("public/*").map { |fn| fn.gsub(/public/, '')},
+                  :root => 'public',
+                  :index =>'index.html',
+                  :header_rules => [
+                    [:all, {'Cache-Control' => 'public, max-age=864000'}],
+                    [:all, {'Content-Type' => 'text/html'}],
+                    [/^\/stylesheets/, {'Content-Type' => 'text/css'}]
+                  ]
 
 run lambda { |env|
   [
