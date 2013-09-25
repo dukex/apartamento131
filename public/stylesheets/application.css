@@ -20,6 +20,16 @@ header h1{
 	line-height: 2;
 }
 
+header h1 a{
+  color: #000;
+  text-decoration: none;
+}
+
+header h1 a:hover{
+  color: #2c3e50;
+  font-style: italic;
+}
+
 aside{
   float: right;
   width: 160px;
@@ -52,11 +62,11 @@ aside{
   #content article h2 { text-align: left }
 }
 
-#content article:first-child{
+#articles li:first-child article{
 	border-top: none;
   padding-top: 0;
 }
-#content article{
+#articles article{
 	overflow: hidden;
 	margin: 0 auto;
 	padding: 50px 0 30px 0;
@@ -64,7 +74,7 @@ aside{
 	border-bottom: 1px solid #e5e5e5;
 }
 
-#content article h2{
+#articles article h2{
 	font-size: 2.813em;
 	letter-spacing: -1px;
 	line-height: 1.25em;
@@ -73,23 +83,22 @@ aside{
 	margin: 0 auto 0.2em;
 }
 
-#content article h2 a{
+#articles article h2 a{
 	text-decoration: none;
 	color: #34495e;
 }
 
-#content article .resume{
+#articles article .resume{
 	margin-bottom: 1em;
 	font-size: 1.35em;
 	line-height: 1.6em;
-
 }
 
-#content article .about{
+#articles article .about{
 	margin: 0 auto 1.8em;
 }
 
-#content article .about p{
+#articles article .about p{
   line-height: 1.3em;
   text-align: right;
 	line-height: 1.4em;
@@ -97,7 +106,7 @@ aside{
   font-size: 1em;
 }
 
-#content article .about a{
+#articles article .about a{
   color: #ecf0f1;
   border: 1px solid #FFF;
   background: #2980b9;
@@ -109,7 +118,7 @@ aside{
   border-radius: 3px;
 }
 
-#content article .read_more{
+#articles article .read_more{
 	text-align: right;
 	float: right;
 	color: #e74c3c;
@@ -117,10 +126,25 @@ aside{
 	font-style: italic;
 }
 
-#content article .read_more::after{
+#articles article .read_more::after{
 	content: " \2192"
 }
 
-#content article img{
+#articles article img{
 	width: 100%;
+}
+
+#content > article .body {
+	margin-bottom: 1em;
+	font-size: 1.35em;
+	line-height: 1.6em;
+}
+
+#content > article h2{
+	font-size: 4.813em;
+	letter-spacing: -1px;
+	line-height: 1.25em;
+	text-align: center;
+	font-family: 'Gentium Book Basic', Georgia, serif;
+	margin: 0 auto 0.4em;
 }

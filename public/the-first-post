@@ -2,7 +2,7 @@
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8">
-    <title>The first post!</title>
+    <title>The first post! - Apartamento 131</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,7 +12,7 @@
   </head>
   <body>
     <header>
-    <h1>Apartamento 131</h1>
+    <h1><a href="/">Apartamento 131</a></h1>
     <ul style="display:none">
       <li><a href="">email</a></li>
       <li><a href="">twitter</a></li>
@@ -25,7 +25,7 @@
     <div id="content">
       <article>
   <h2>The first post!</h2>
-  <p>My Summary that is baby</p>
+  <div class="body"><p>My Summary that is baby</p>
 
 <p></p>
 
@@ -34,7 +34,7 @@
 <p>Beard keffiyeh food truck, skateboard messenger bag put a bird on it wolf hoodie gluten-free Godard Portland. Freegan Bushwick Schlitz, distillery vegan keytar sustainable 90’s stumptown fixie cardigan Terry Richardson squid chillwave kogi. Kogi shabby chic salvia Brooklyn. PBR&amp;B quinoa meggings, gluten-free +1 disrupt salvia Blue Bottle next level Tumblr mumblecore kale chips hoodie YOLO. Helvetica scenester Neutra PBR, Banksy readymade pug drinking vinegar slow-carb semiotics kale chips Truffaut swag pop-up. Odd Future polaroid wayfarers, scenester ethnic Helvetica pug street art Etsy Carles four loko stumptown synth post-ironic. American Apparel forage kitsch, try-hard you probably haven’t heard of them cornhole Brooklyn.</p>
 
 <p><strong><em>- Duke</em></strong></p>
-
+</div>
 </article>
 
     </div>

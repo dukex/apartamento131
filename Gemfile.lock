@@ -1,10 +1,20 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
+    kramdown (1.2.0)
     rack (1.5.2)
+    shotgun (0.9)
+      rack (>= 1.0)
+    statikaj (0.0.1)
+      kramdown
+      rack
+      thor
+    thor (0.18.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rack
+  shotgun
+  statikaj

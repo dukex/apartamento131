@@ -1,5 +1,6 @@
+<ul id="articles">
 <% articles.select {|a| a[:date] <= Date.today}[0...10].each do |article| %>
-  <article>
+  <li><article>
   <h2><a href="<%= article.path %>"><%= article.title %></a></h2>
   <div class="about">
     <p>em $category</p>
@@ -9,6 +10,7 @@
     <%= article.body.split("~~~").first %>
   </div>
   <a class="read_more" href="<%= article.path %>">Continue Lendo</a>
-  </article>
+  </article></li>
 <% end %>
+</ul>
 
