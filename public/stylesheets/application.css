@@ -1,0 +1,126 @@
+body{
+	font-size: 100%;
+	background: #f7f7f7;
+  color: #2c3e50;
+}
+
+a{
+  color: #2980b9;
+}
+a:hover{
+  color: #3498db;
+}
+
+header h1{
+	margin: 0 0 3em 0;
+	padding: 0px 15px;
+	font-family: 'Gentium Book Basic',serif;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 2;
+}
+
+aside{
+  float: right;
+  width: 160px;
+  margin-top: 30px;
+}
+
+#container{
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+#content{
+	max-width: 700px;
+  width: 100%;
+  float: left;
+  padding: 0 3%;
+}
+
+.new-ap131-index-responsivo { margin: 0 auto; width: 160px; height: 600px; }
+
+@media (max-width: 979px) {
+  .new-ap131-index-responsivo { margin: 0 auto; width: 728px; height: 90px; }
+  #content{ float: none; margin: 0 auto; }
+  aside{ float: none; width: 728px; margin: 30px auto 0; }
+}
+
+@media (max-width: 360px) {
+  aside{ width: 300px; margin: 30px auto 0; }
+  .new-ap131-index-responsivo { margin: 0 auto; width: 300px; height: 250px; }
+  #content article h2 { text-align: left }
+}
+
+#content article:first-child{
+	border-top: none;
+  padding-top: 0;
+}
+#content article{
+	overflow: hidden;
+	margin: 0 auto;
+	padding: 50px 0 30px 0;
+	border-top: 1px solid #FFF;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#content article h2{
+	font-size: 2.813em;
+	letter-spacing: -1px;
+	line-height: 1.25em;
+	text-align: center;
+	font-family: 'Gentium Book Basic', Georgia, serif;
+	margin: 0 auto 0.2em;
+}
+
+#content article h2 a{
+	text-decoration: none;
+	color: #34495e;
+}
+
+#content article .resume{
+	margin-bottom: 1em;
+	font-size: 1.35em;
+	line-height: 1.6em;
+
+}
+
+#content article .about{
+	margin: 0 auto 1.8em;
+}
+
+#content article .about p{
+  line-height: 1.3em;
+  text-align: right;
+	line-height: 1.4em;
+  font-style: italic;
+  font-size: 1em;
+}
+
+#content article .about a{
+  color: #ecf0f1;
+  border: 1px solid #FFF;
+  background: #2980b9;
+  padding: 0 5px;
+  font-size: 0.8em;
+  margin: 0;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+#content article .read_more{
+	text-align: right;
+	float: right;
+	color: #e74c3c;
+	font-size: 1em;
+	font-style: italic;
+}
+
+#content article .read_more::after{
+	content: " \2192"
+}
+
+#content article img{
+	width: 100%;
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8">
+    <title>The first post!</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/stylesheets/reset.css">
+    <link rel="stylesheet" href="/stylesheets/application.css">
+    <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  </head>
+  <body>
+    <header>
+    <h1>Apartamento 131</h1>
+    <ul style="display:none">
+      <li><a href="">email</a></li>
+      <li><a href="">twitter</a></li>
+      <li><a href="">facebook</a></li>
+      <li><a href="">feed</a></li>
+    </ul>
+    </header>
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+    <section id="container">
+    <div id="content">
+      <article>
+  <h2>The first post!</h2>
+  <p>My Summary that is baby</p>
+
+<p></p>
+
+<p>Pitchfork viral kale chips Neutra. Irony Echo Park ennui asymmetrical. Literally Intelligentsia asymmetrical PBR, hashtag actually photo booth hella shabby chic. Mustache narwhal tattooed Terry Richardson Marfa chia Vice ugh. Food truck fanny pack try-hard Echo Park. Fingerstache banh mi aesthetic deep v, iPhone squid Banksy locavore. Fingerstache pour-over forage chillwave, pork belly shabby chic put a bird on it fashion axe before they sold out irony.</p>
+
+<p>Beard keffiyeh food truck, skateboard messenger bag put a bird on it wolf hoodie gluten-free Godard Portland. Freegan Bushwick Schlitz, distillery vegan keytar sustainable 90’s stumptown fixie cardigan Terry Richardson squid chillwave kogi. Kogi shabby chic salvia Brooklyn. PBR&amp;B quinoa meggings, gluten-free +1 disrupt salvia Blue Bottle next level Tumblr mumblecore kale chips hoodie YOLO. Helvetica scenester Neutra PBR, Banksy readymade pug drinking vinegar slow-carb semiotics kale chips Truffaut swag pop-up. Odd Future polaroid wayfarers, scenester ethnic Helvetica pug street art Etsy Carles four loko stumptown synth post-ironic. American Apparel forage kitsch, try-hard you probably haven’t heard of them cornhole Brooklyn.</p>
+
+<p><strong><em>- Duke</em></strong></p>
+
+</article>
+
+    </div>
+    <aside>
+    <!-- new ap131 index responsivo -->
+    <ins class="adsbygoogle new-ap131-index-responsivo"
+      style="display:inline-block"
+      data-ad-client="ca-pub-5957735818581866"
+      data-ad-slot="1602555831"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </aside>
+
+    </section>
+
+    <script type="text/javascript">
+      WebFontConfig = {
+google: { families: [ 'Gentium+Book+Basic::latin' ] }
+      };
+(function() {
+ var wf = document.createElement('script');
+ wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+ '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+ wf.type = 'text/javascript';
+ wf.async = 'true';
+ var s = document.getElementsByTagName('script')[0];
+ s.parentNode.insertBefore(wf, s);
+ })(); </script>
+  </body>
+</html>
+

@@ -3,6 +3,9 @@ title: The first post!
 date: 02/06/1992
 author: Duke
 
+My Summary that is baby
+
+~~~
 
 Pitchfork viral kale chips Neutra. Irony Echo Park ennui asymmetrical. Literally Intelligentsia asymmetrical PBR, hashtag actually photo booth hella shabby chic. Mustache narwhal tattooed Terry Richardson Marfa chia Vice ugh. Food truck fanny pack try-hard Echo Park. Fingerstache banh mi aesthetic deep v, iPhone squid Banksy locavore. Fingerstache pour-over forage chillwave, pork belly shabby chic put a bird on it fashion axe before they sold out irony.
 
