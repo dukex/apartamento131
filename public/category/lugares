@@ -35,15 +35,14 @@
     <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
     <section id="container">
     <div id="content">
-      
-
+      <h2>Category: </h2>
 <ul id="articles">
 
   <li><article>
-  <h2><a href="/restaurante-chines-rong-he">Restaurante Chinês Rong He</a></h2>
+  <h3><a href="/restaurante-chines-rong-he">Restaurante Chinês Rong He</a></h2>
   <div class="about">
     <p>em <a href="/category/lugares">lugares</a></p>
-    <p>às 00:31, 24 de Agosto de 2013</p>
+    <p>as 2013-08-24 00:31:00 -0300</p>
   </div>
   <div class="resume">
     <p><img src="http://ronghe.com.br/wp-content/uploads/2013/03/Restaurante_RongHe_1.jpg" alt="Restaurante Chinês Rong He" /></p>
@@ -54,32 +53,6 @@
 
   </div>
   <a class="read_more" href="/restaurante-chines-rong-he">Continue Lendo</a>
-  </article></li>
-
-  <li><article>
-  <h2><a href="/seguro-fianca-devolve-o-dinheiro">Seguro Fiança devolve o dinheiro?</a></h2>
-  <div class="about">
-    <p>em <a href="/category/imoveis">imoveis</a></p>
-    <p>às 14:26, 11 de Junho de 2013</p>
-  </div>
-  <div class="resume">
-    <p>Depois de escrever meu primeiro texto <a href="http://www.apartamento131.com/post/54942305929/procurando-imoveis">Procurando Imóveis</a> e conversando com algumas pessoas apareceu a seguinte dúvida: <strong>O Seguro Fiança devolve o dinheiro?</strong></p>
-
-  </div>
-  <a class="read_more" href="/seguro-fianca-devolve-o-dinheiro">Continue Lendo</a>
-  </article></li>
-
-  <li><article>
-  <h2><a href="/procurando-imoveis">Procurando Imóveis</a></h2>
-  <div class="about">
-    <p>em <a href="/category/imoveis">imoveis</a></p>
-    <p>às 18:12, 08 de Julho de 2013</p>
-  </div>
-  <div class="resume">
-    <p>A quase um ano atrás eu sai pela internet em busca de uma apartamento para mim, porém por mais que eu estivesse ali vendo as fotos, mapas, coisas envolta, caminho para o trabalho, coisas do tipo, era algo que não tinha total certeza ainda que queria. Daquela ‘época’, me veem algumas coisas na cabeça, e segue minha opinião…</p>
-
-  </div>
-  <a class="read_more" href="/procurando-imoveis">Continue Lendo</a>
   </article></li>
 
 </ul>
