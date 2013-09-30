@@ -1,13 +1,16 @@
+<% month_names = [nil] + %w(Janeiro Fevereiro Março Abril Maio Junho Julho Agosto Setembro Outubro Novembro Dezembro)
+ %>
+
 <ul id="articles">
-<% articles.select {|a| a[:date] <= Date.today}[0...10].each do |article| %>
+<% articles.select {|a| a[:date] <= Time.now}[0...10].each do |article| %>
   <li><article>
   <h2><a href="<%= article.path %>"><%= article.title %></a></h2>
   <div class="about">
-    <p>em $category</p>
-    <p>as <%= article.date %></p>
+    <p>em <a href="/category/<%= article.category %>"><%= article.category %></a></p>
+    <p>às <%= article.date.strftime("%H:%M, %d de ") + month_names[article.date.month] + article.date.strftime(" de %Y") %></p>
   </div>
   <div class="resume">
-    <%= article.body.split("~~~").first %>
+    <%= article.summary %>
   </div>
   <a class="read_more" href="<%= article.path %>">Continue Lendo</a>
   </article></li>

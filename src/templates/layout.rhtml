@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"></meta>
     <title><%= title ? "#{title} - " : "" %>Apartamento 131</title>
-    <meta name="description" content="<%= description %>" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <meta name="description" content="<%= description ? description.gsub( %r{</?[^>]+?>}, '' ) : "Blog Apartamento 131 sobre viver em São Paulo" %>"></meta>
+    <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+    <meta name="apple-mobile-web-app-capable" content="yes"></meta>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"></meta>
+    <meta name="google-site-verification" content="HTR_mec2FGVLZw-buq0u7dvbH39zBAlFoeF6mzl-dkk"></meta>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="fb:app_id" content="48119224995">
+    <meta property="og:title" content="<%= title ? "#{title} - " : "" %>Apartamento 131"></meta>
+    <meta property="og:type" content="website"></meta>
+    <meta property="og:description" content="<%= description ? description.gsub( %r{</?[^>]+?>}, '' ) : "Blog Apartamento 131" %>"></meta>
+
     <link rel="stylesheet" href="/stylesheets/reset.css">
     <link rel="stylesheet" href="/stylesheets/application.css">
+    <link rel="shortcut icon" href="http://31.media.tumblr.com/avatar_d7a0bffefbea_128.png">
+    <link rel="apple-touch-icon" href="http://31.media.tumblr.com/avatar_d7a0bffefbea_128.png">
+    <link rel="alternate" type="application/rss+xml" href="http://www.apartamento131.com/feed.atom">
     <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
   <body>
