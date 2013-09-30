@@ -11,6 +11,8 @@ a:hover{
   color: #3498db;
 }
 
+p, ul, ol { margin-top: 1em; }
+
 header h1{
 	margin: 0 0 3em 0;
 	padding: 0px 15px;
@@ -32,7 +34,7 @@ header h1 a:hover{
 
 aside{
   float: right;
-  width: 160px;
+  max-width: 160px;
   margin-top: 30px;
 }
 
@@ -43,7 +45,7 @@ aside{
 
 #content{
 	max-width: 700px;
-  width: 100%;
+  width: 94%;
   float: left;
   padding: 0 3%;
 }
