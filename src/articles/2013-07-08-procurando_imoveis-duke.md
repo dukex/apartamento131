@@ -1,7 +1,8 @@
 ---
 title: Procurando Imóveis
-date: 2013/07/08
+date: 2013/07/08 18:12
 author: Duke
+category: aluguel
 
 A quase um ano atrás eu sai pela internet em busca de uma apartamento para mim, porém por mais que eu estivesse ali vendo as fotos, mapas, coisas envolta, caminho para o trabalho, coisas do tipo, era algo que não tinha total certeza ainda que queria. Daquela 'época', me veem algumas coisas na cabeça, e segue minha opinião.
 

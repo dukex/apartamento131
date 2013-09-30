@@ -1,7 +1,8 @@
 ---
 title: Seguro Fiança devolve o dinheiro?
-date: 2013/07/08
+date: 2013/06/11 14:26
 author: Duke
+category: aluguel
 
 Depois de escrever meu primeiro texto [Procurando Imóveis](http://www.apartamento131.com/post/54942305929/procurando-imoveis) e conversando com algumas pessoas apareceu a seguinte dúvida: **O Seguro Fiança devolve o dinheiro?**
 

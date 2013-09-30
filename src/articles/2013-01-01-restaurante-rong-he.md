@@ -1,9 +1,12 @@
 ---
 title: Restaurante Chinês Rong He
-date: 2013/07/08
+date: 2013/08/24 00:31
 author: Duke
+category: lugares
 
-![Restaurante Chinês Rong He](http://ronghe.com.br/wp-content/uploads/2013/03/Restaurante_RongHe_1.jpg) Um pouco sobre nossa ida ao [Restaurante Chinês Rong He](http://ronghe.com.br/)
+![Restaurante Chinês Rong He](http://ronghe.com.br/wp-content/uploads/2013/03/Restaurante_RongHe_1.jpg)
+
+Um pouco sobre nossa ida ao [Restaurante Chinês Rong He](http://ronghe.com.br/)
 
 
 O **Rong He** tem duas unidades, uma na Liberdade(Rua da Glória, 622) e outro no Paraíso(Rua Tutóia, 312), as duas são relativamente perto do metrô, de taxi não deve chegar R$10. Eu fui na Unidade da Liberdade.
